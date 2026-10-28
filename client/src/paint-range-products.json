@@ -1,0 +1,110 @@
+[
+  {
+    "index": 1,
+    "brand": "Value Plus",
+    "variant": "Matt Emulsion Finish",
+    "tag": "20 Ltr",
+    "filename": "value-plus-matt-emulsion-finish-20-ltr.webp",
+    "relPath": "/assets/products/value-plus-matt-emulsion-finish-20-ltr.webp",
+    "alt": "Value Plus Matt Emulsion Finish 20 litre bucket"
+  },
+  {
+    "index": 2,
+    "brand": "Value Plus",
+    "variant": "Satin",
+    "tag": "20 Ltr",
+    "filename": "value-plus-satin-20-ltr.webp",
+    "relPath": "/assets/products/value-plus-satin-20-ltr.webp",
+    "alt": "Value Plus Satin 20 litre bucket"
+  },
+  {
+    "index": 3,
+    "brand": "Buffalo",
+    "variant": "Satin Emulsion Silk",
+    "tag": "20 Ltr",
+    "filename": "buffalo-satin-emulsion-silk-20-ltr.webp",
+    "relPath": "/assets/products/buffalo-satin-emulsion-silk-20-ltr.webp",
+    "alt": "Buffalo Satin Emulsion Silk 20 litre bucket"
+  },
+  {
+    "index": 4,
+    "brand": "Negro Capa",
+    "variant": "Satin Emulsion",
+    "tag": "20 Ltr",
+    "filename": "negro-capa-satin-emulsion-20-ltr.webp",
+    "relPath": "/assets/products/negro-capa-satin-emulsion-20-ltr.webp",
+    "alt": "Negro Capa Satin Emulsion 20 litre bucket"
+  },
+  {
+    "index": 5,
+    "brand": "Buffalo",
+    "variant": "Emulsion",
+    "tag": "20 Ltr",
+    "filename": "buffalo-emulsion-20-ltr.webp",
+    "relPath": "/assets/products/buffalo-emulsion-20-ltr.webp",
+    "alt": "Buffalo Emulsion 20 litre bucket"
+  },
+  {
+    "index": 6,
+    "brand": "Value Plus",
+    "variant": "Emulsion",
+    "tag": "20 Ltr",
+    "filename": "value-plus-emulsion-20-ltr.webp",
+    "relPath": "/assets/products/value-plus-emulsion-20-ltr.webp",
+    "alt": "Value Plus Emulsion 20 litre bucket"
+  },
+  {
+    "index": 7,
+    "brand": "Value Paints",
+    "variant": "Standard Quality Emulsion",
+    "tag": "20 Ltr",
+    "filename": "value-paints-standard-quality-emulsion-20-ltr.webp",
+    "relPath": "/assets/products/value-paints-standard-quality-emulsion-20-ltr.webp",
+    "alt": "Value Paints Standard Quality Emulsion 20 litre bucket"
+  },
+  {
+    "index": 8,
+    "brand": "Buffalo",
+    "variant": "Premium Quality Enamel",
+    "tag": "4 Ltr",
+    "filename": "buffalo-premium-quality-enamel-4-ltr.webp",
+    "relPath": "/assets/products/buffalo-premium-quality-enamel-4-ltr.webp",
+    "alt": "Buffalo Premium Quality Enamel 20 litre bucket"
+  },
+  {
+    "index": 9,
+    "brand": "Value Paints",
+    "variant": "Gloss Finish",
+    "tag": "4 Ltr",
+    "filename": "value-paints-gloss-finish-4-ltr.webp",
+    "relPath": "/assets/products/value-paints-gloss-finish-4-ltr.webp",
+    "alt": "Value Paints Gloss Finish 20 litre bucket"
+  },
+  {
+    "index": 10,
+    "brand": "Value Paints",
+    "variant": "Premium Gloss Finish",
+    "tag": "4 Ltr",
+    "filename": "value-paints-premium-gloss-finish-4-ltr.webp",
+    "relPath": "/assets/products/value-paints-premium-gloss-finish-4-ltr.webp",
+    "alt": "Value Paints Premium Gloss Finish 20 litre bucket"
+  },
+  {
+    "index": 11,
+    "brand": "Value Plus",
+    "variant": "Gloss",
+    "tag": "4 Ltr",
+    "filename": "value-plus-gloss-4-ltr.webp",
+    "relPath": "/assets/products/value-plus-gloss-4-ltr.webp",
+    "alt": "Value Plus Gloss 20 litre bucket"
+  },
+  {
+    "index": 12,
+    "brand": "Value Paints",
+    "variant": "POP Emulsion",
+    "tag": "20 Ltr",
+    "filename": "value-paints-pop-emulsion-20-ltr.webp",
+    "relPath": "/assets/products/value-paints-pop-emulsion-20-ltr.webp",
+    "alt": "Value Paints POP Emulsion 20 litre bucket"
+  }
+]

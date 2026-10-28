@@ -1,5 +1,14 @@
 import './style.css';
 
+// Lazy-load Paint Range Motion graphic web component
+let motionComponentLoaded = false;
+function ensureMotionLoaded() {
+  if (!motionComponentLoaded && document.querySelector('paint-range-motion')) {
+    motionComponentLoaded = true;
+    import('./components/PaintRangeMotion.js');
+  }
+}
+
 // Central State
 const state = {
   view: 'home', // 'home', 'catalog', 'shades', 'calculator', 'visualizer', 'bag', 'admin'
@@ -292,6 +301,9 @@ function render() {
     <!-- Admin Transaction Detail Modal -->
     ${renderTxDetailModal()}
   `;
+
+  // Post-render lifecycle: trigger lazy loading of motion graphic if in DOM
+  ensureMotionLoaded();
 }
 
 // Router switcher
@@ -1219,6 +1231,34 @@ function renderHomeView() {
       </div>
     </section>
 
+    <!-- Interactive 12-Product Paint Range Motion Graphic Showcase -->
+    <section class="bg-[#15101f] text-white py-12 border-y border-purple-900/40 relative overflow-hidden" id="motion-showcase-section">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-6 flex flex-col md:flex-row md:items-end justify-between gap-4">
+        <div>
+          <div class="inline-flex items-center space-x-2 bg-amber-400/10 border border-amber-400/30 px-3 py-1 rounded-full text-xs font-bold text-amber-400 mb-2">
+            <i class="fa-solid fa-film"></i>
+            <span>Interactive Brand Showcase</span>
+          </div>
+          <h2 class="text-2xl sm:text-3xl font-black text-white tracking-tight">The Value Paint Range</h2>
+          <p class="text-xs text-slate-400 mt-1 max-w-xl">
+            Watch our complete 12-finish showcase across 4L and 20L containers. Click replay at any time.
+          </p>
+        </div>
+        <div class="flex items-center space-x-3 text-xs text-slate-400">
+          <span class="flex items-center space-x-1.5"><span class="w-2 h-2 rounded-full bg-emerald-400"></span><span>Auto-scales to all screens</span></span>
+          <button onclick="window.navTo('catalog')" class="bg-white/10 hover:bg-white/20 text-white font-bold px-4 py-2 rounded-lg transition-colors">
+            Order These Finishes &rarr;
+          </button>
+        </div>
+      </div>
+      
+      <div class="max-w-6xl mx-auto px-2 sm:px-4">
+        <div class="rounded-2xl sm:rounded-3xl overflow-hidden border border-white/10 shadow-2xl bg-black/40">
+          <paint-range-motion></paint-range-motion>
+        </div>
+      </div>
+    </section>
+
     <!-- Featured Products Showcase -->
     <section class="py-16 bg-slate-50">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -1290,6 +1330,22 @@ function renderCatalogView() {
               ${cat}
             </button>
           `).join('')}
+        </div>
+      </div>
+    </div>
+
+    <!-- Motion Graphic Showcase Section inside Products Page -->
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8">
+      <div class="rounded-3xl overflow-hidden border border-purple-900/30 bg-[#15101f] shadow-2xl p-4 sm:p-6">
+        <div class="mb-4 flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+          <div>
+            <span class="text-[11px] font-bold text-amber-400 uppercase tracking-widest">Interactive Motion Graphic</span>
+            <h3 class="text-xl font-black text-white">Full Value Paint Product Range</h3>
+          </div>
+          <span class="text-xs text-slate-400">12 Finishes in 4L & 20L formats</span>
+        </div>
+        <div class="rounded-2xl overflow-hidden bg-black/30 border border-white/5">
+          <paint-range-motion></paint-range-motion>
         </div>
       </div>
     </div>
