@@ -1,0 +1,1346 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "title": "Value Plus Satin",
+      "slug": "value-plus-satin",
+      "brand": "Value Paint",
+      "category": "Home Paints",
+      "finishType": "Satin",
+      "description": "Value Plus Satin paint offers a unique blend of elegance and durability. It provides a tough washable finish, excellent moisture resistance, and subtle sheen ideal for living rooms, hallways, and modern interiors.",
+      "shortDescription": "Luxurious satin sheen, tough washable finish, and high moisture resistance.",
+      "features": [
+        "Subtle Sheen & Washable",
+        "Fungal & Mildew Resistant",
+        "Easy Maintenance",
+        "High Opacity & Coverage"
+      ],
+      "availableSizes": [
+        {
+          "label": "20L Drum",
+          "code": "20L"
+        },
+        {
+          "label": "4L Gallon",
+          "code": "4L"
+        }
+      ],
+      "spreadingRate": 14,
+      "numberOfCoatsRequired": 2,
+      "image": "/products/value-plus-satin-4ltr-gallon.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-2",
+      "title": "Buffalo Super Quality Emulsion (20L)",
+      "slug": "buffalo-super-quality-emulsion-20l",
+      "brand": "Value Paint",
+      "category": "Home Paints",
+      "finishType": "Emulsion",
+      "description": "Buffalo Super Quality Paint Emulsion (20Ltr) by Value Paints. High-opacity interior and exterior wall coating with rich coverage, smooth spreadability, and strong resistance against tropical weather and fungal growth.",
+      "shortDescription": "Super quality 20L emulsion paint with high spreading power and durability.",
+      "features": [
+        "14.5 - 17 m²/L Spreading Rate",
+        "High Opacity & Smooth Coverage",
+        "Anti-Algae & Anti-Fungal Protection",
+        "20 Litres Heavy-Duty Bucket"
+      ],
+      "availableSizes": [
+        {
+          "label": "20L Drum",
+          "code": "20L"
+        },
+        {
+          "label": "4L Gallon",
+          "code": "4L"
+        }
+      ],
+      "spreadingRate": 16,
+      "numberOfCoatsRequired": 2,
+      "image": "/products/buffalo-emulsion-20l.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-3",
+      "title": "Value Plus Matt Emulsion Finish (20L)",
+      "slug": "value-plus-matt-emulsion",
+      "brand": "Value Paint",
+      "category": "Home Paints",
+      "finishType": "Matt Emulsion",
+      "description": "Premium quality Value Plus Matt Emulsion Finish (20L) formulated in Nigeria to conceal wall plaster imperfections while delivering rich, velvety non-reflective coverage across interior and exterior walls.",
+      "shortDescription": "Premium 20L non-reflective matte emulsion finish with rich coverage.",
+      "features": [
+        "Zero Glare Velvety Matt Finish",
+        "Hides Surface Imperfections",
+        "Rich Opacity & Smooth Spread",
+        "20L Heavy-Duty Bucket"
+      ],
+      "availableSizes": [
+        {
+          "label": "20L Drum",
+          "code": "20L"
+        },
+        {
+          "label": "4L Gallon",
+          "code": "4L"
+        }
+      ],
+      "spreadingRate": 13,
+      "numberOfCoatsRequired": 2,
+      "image": "/products/value-plus-matt-emulsion-20l.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-4",
+      "title": "Value Paints Premium Gloss Finish (4L)",
+      "slug": "value-premium-gloss-finish",
+      "brand": "Value Paint",
+      "category": "Home Paints",
+      "finishType": "Gloss",
+      "description": "Value Paints Premium Gloss Finish (4 Litres). High-solids gloss enamel engineered for maximum reflection and weather resistance on exterior metal gates, wood trims, doors, and architectural ironwork.",
+      "shortDescription": "High-reflection 4L protective gloss finish for metals, gates, and woodwork.",
+      "features": [
+        "Ultra High Reflectivity",
+        "Anti-Corrosion on Metals",
+        "Weather & Rain Barrier",
+        "4 Litres Gallon Tin"
+      ],
+      "availableSizes": [
+        {
+          "label": "4L Gallon",
+          "code": "4L"
+        },
+        {
+          "label": "1L Tin",
+          "code": "1L"
+        }
+      ],
+      "spreadingRate": 13,
+      "numberOfCoatsRequired": 2,
+      "image": "/products/value-premium-gloss-finish-4l.png?v=2",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-5",
+      "title": "Value Paints Textured Finish — Valutex (20L)",
+      "slug": "textured-finish-stucco",
+      "brand": "Value Paint",
+      "category": "Home Paints",
+      "finishType": "Textured",
+      "description": "Value Paints Valutex Textured Finish (20Ltr). Heavy-duty coarse masonry paint that creates an impenetrable barrier against harsh tropical rain, sunlight, and humidity, while providing a distinctive architectural texture.",
+      "shortDescription": "Valutex 20L architectural coarse exterior barrier for masonry and perimeter walls.",
+      "features": [
+        "Extreme Weather Proofing",
+        "Hides Plaster Unevenness",
+        "UV & Heat Resilient",
+        "20Ltr Valutex Textured Bucket"
+      ],
+      "availableSizes": [
+        {
+          "label": "20L Drum",
+          "code": "20L"
+        }
+      ],
+      "spreadingRate": 8,
+      "numberOfCoatsRequired": 2,
+      "image": "/products/value-paints-valutex-textured-20l.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-6",
+      "title": "Negro Capa Premium Velvet",
+      "slug": "negro-capa-premium-velvet",
+      "brand": "Value Paint",
+      "category": "Home Paints",
+      "finishType": "Velvet",
+      "description": "Luxury decorative velvet coating with rich depth of color and silky touch. Designed for luxury homes, master bedrooms, and executive offices.",
+      "shortDescription": "Ultra-smooth velvet touch with deep color pigmentation.",
+      "features": [
+        "Silky Velvet Sheen",
+        "Superior Deep-Tone Retention",
+        "Stain Repellent",
+        "Washable Luxury Film"
+      ],
+      "availableSizes": [
+        {
+          "label": "20L Drum",
+          "code": "20L"
+        },
+        {
+          "label": "4L Gallon",
+          "code": "4L"
+        }
+      ],
+      "spreadingRate": 14,
+      "numberOfCoatsRequired": 2,
+      "image": "https://valuepaints.org/wp-content/uploads/2019/10/value-crop-9.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-7",
+      "title": "RegisCar Automobile Paint — Pearl Gold (Auto Base)",
+      "slug": "regiscar-auto-basecoat-pearl-gold",
+      "brand": "RegisCar",
+      "category": "Auto Paints",
+      "finishType": "Metallic Basecoat",
+      "description": "SON-certified RegisCar Automobile Acrylic Base / Top Coat (EJIS71(330) Pearl Gold). Precision-matched metallic flake suspension for high-clarity vehicle resprays, panel touch-ups, and custom automotive finishes.",
+      "shortDescription": "SON-certified RegisCar Pearl Gold automotive acrylic base & top coat.",
+      "features": [
+        "SON Certified Automobile Paint",
+        "Rich Pearl Gold Metallic Flake",
+        "Rapid Flash-off & Smooth Atomization",
+        "Custom Vehicle Shade Matching Available"
+      ],
+      "availableSizes": [
+        {
+          "label": "1L Tin",
+          "code": "1L"
+        },
+        {
+          "label": "4L Gallon",
+          "code": "4L"
+        }
+      ],
+      "spreadingRate": 10,
+      "numberOfCoatsRequired": 3,
+      "image": "/products/regiscar-auto-basecoat-pearl-gold.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-8",
+      "title": "Godswill High Solid 2K Clearcoat & Hardener",
+      "slug": "godswill-2k-clearcoat-hardener",
+      "brand": "Godswill Auto",
+      "category": "Auto Paints",
+      "finishType": "Clearcoat",
+      "description": "Two-component polyurethane high-gloss automotive clearcoat with matching fast hardener. Delivers deep optical gloss and UV protection against tropical sun fading.",
+      "shortDescription": "Ultra-deep optical shine and scratch-resistant automotive clearcoat.",
+      "features": [
+        "2:1 Mixing Ratio with Hardener",
+        "Mirror-Gloss Finish",
+        "Yellowing & UV Resistant",
+        "High Chemical Resistance"
+      ],
+      "availableSizes": [
+        {
+          "label": "5L Kit (4L Clear + 1L Hardener)",
+          "code": "5L Kit"
+        },
+        {
+          "label": "1L Kit",
+          "code": "1L Kit"
+        }
+      ],
+      "spreadingRate": 11,
+      "numberOfCoatsRequired": 2,
+      "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=600&q=80",
+      "isFeatured": false,
+      "inStock": true
+    },
+    {
+      "id": "prod-9",
+      "title": "Ace All-Purpose Paint & Auto Thinner (5L)",
+      "slug": "ace-all-purpose-thinner-5l",
+      "brand": "Ace Solvents",
+      "category": "Thinners & Hardeners",
+      "finishType": "Solvent",
+      "description": "High-grade all-purpose virgin thinner in a 5L metal container with carrying handle and pour spout. Formulated for thinning paints, auto primers, basecoats, and thorough cleaning of spray guns and painting tools.",
+      "shortDescription": "5L all-purpose virgin thinner for paint thinning, primers, and spray gun cleaning.",
+      "features": [
+        "Thins Paints, Primers, and Lacquers",
+        "Cleans Spray Guns & Brushes Thoroughly",
+        "High Solvent Strength & Clear Atomization",
+        "5L Heavy-Duty Metal Can with Pour Spout"
+      ],
+      "availableSizes": [
+        {
+          "label": "5L Gallon Tin",
+          "code": "5L"
+        },
+        {
+          "label": "25L Drum",
+          "code": "25L"
+        }
+      ],
+      "image": "/products/ace-thinner-all-purpose-5l.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-10",
+      "title": "Professional Satin Paint Roller & Sleeve",
+      "slug": "professional-satin-roller",
+      "brand": "Size Pile Tools",
+      "category": "Painting Tools",
+      "finishType": "Roller & Sleeve",
+      "description": "Contractor-grade paint roller with high-density woven microfiber sleeve engineered specifically for Value Plus Satin and Matt emulsion paints. Delivers ultra-smooth, lint-free coverage with ergonomic orange comfort handle.",
+      "shortDescription": "High-density satin roller sleeve with ergonomic handle for flawless, lint-free sheen.",
+      "features": [
+        "Engineered for Satin & Washable Emulsion",
+        "Zero Lint & Non-Shed Microfiber",
+        "High Paint Pick-Up & Smooth Release",
+        "Fits Standard Universal Extension Poles"
+      ],
+      "availableSizes": [
+        {
+          "label": "9-inch Roller Complete (Handle + Sleeve)",
+          "code": "9in Complete"
+        },
+        {
+          "label": "Replacement Sleeve Only",
+          "code": "Sleeve"
+        }
+      ],
+      "image": "/products/satin-roller-sleeve-handle.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-11",
+      "title": "Professional HVLP Gravity Feed Spray Gun (1.4mm)",
+      "slug": "hvlp-gravity-feed-spray-gun",
+      "brand": "Godswill Hardware",
+      "category": "Painting Tools",
+      "finishType": "Spray Equipment",
+      "description": "High-volume low-pressure (HVLP) stainless steel spray gun with 600cc nylon cup. Perfect for applying auto 2K basecoats, clearcoats, and architectural wood finishes with ultra-fine atomization and minimal overspray.",
+      "shortDescription": "Precision HVLP 1.4mm spray gun for automotive and smooth finishes.",
+      "features": [
+        "1.4mm Stainless Steel Fluid Tip & Needle",
+        "600cc Graduated Nylon Gravity Cup",
+        "Adjustable Pattern & Fluid Control",
+        "High Transfer Efficiency (Minimal Waste)"
+      ],
+      "availableSizes": [
+        {
+          "label": "Complete Spray Kit",
+          "code": "Kit"
+        }
+      ],
+      "spreadingRate": 0,
+      "numberOfCoatsRequired": 0,
+      "image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?auto=format&fit=crop&w=600&q=80",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-12",
+      "title": "Telescopic Aluminum Roller Extension Pole (3.0M)",
+      "slug": "telescopic-roller-extension-pole",
+      "brand": "Godswill Hardware",
+      "category": "Painting Tools",
+      "finishType": "Hardware",
+      "description": "Heavy-duty ribbed aluminum extension pole that expands smoothly from 1.5 meters to 3.0 meters. Essential for painting high exterior walls, staircases, and 12ft cathedral ceilings without ladders.",
+      "shortDescription": "Expandable 1.5m to 3.0m aluminum extension pole with universal thread.",
+      "features": [
+        "Twist-lock Secure Mechanism",
+        "Standard Universal Screw Tip & Push-Fit Adapter",
+        "Lightweight Anodized Aluminum Tube",
+        "Ergonomic Cushioned Non-slip Grip"
+      ],
+      "availableSizes": [
+        {
+          "label": "3.0 Meter (Standard)",
+          "code": "3M"
+        },
+        {
+          "label": "4.5 Meter (Heavy Duty)",
+          "code": "4.5M"
+        }
+      ],
+      "spreadingRate": 0,
+      "numberOfCoatsRequired": 0,
+      "image": "https://images.unsplash.com/photo-1581783342308-f792dbdd27c5?auto=format&fit=crop&w=600&q=80",
+      "isFeatured": false,
+      "inStock": true
+    },
+    {
+      "id": "prod-13",
+      "title": "Industrial Red Oxide Anti-Rust Primer",
+      "slug": "red-oxide-anti-rust-primer",
+      "brand": "Godswill Industrial",
+      "category": "Other Products",
+      "finishType": "Matt Primer",
+      "description": "Heavy-duty anti-corrosive alkyd metal primer formulated with red iron oxide pigments. Seals steel gates, burglar bars, structural beams, and roof sheets against rust and Benin City high-humidity weather.",
+      "shortDescription": "Tough anti-corrosion barrier for metal gates, burglar proofs, and steel.",
+      "features": [
+        "Active Rust Inhibiting Pigments",
+        "Excellent Adhesion to Ferrous Metals",
+        "Weather & Moisture Resistant",
+        "Ready for Gloss Topcoat"
+      ],
+      "availableSizes": [
+        {
+          "label": "20L Drum",
+          "code": "20L"
+        },
+        {
+          "label": "4L Gallon",
+          "code": "4L"
+        }
+      ],
+      "spreadingRate": 13,
+      "numberOfCoatsRequired": 2,
+      "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=600&q=80",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-14",
+      "title": "2K Polyester Car Body Filler (Putty) with Hardener",
+      "slug": "2k-polyester-car-body-filler",
+      "brand": "Godswill Auto",
+      "category": "Auto Paints",
+      "finishType": "Substrate Filler",
+      "description": "High-density two-component polyester body filler designed for automotive panel beaters and metal smoothing. Fills deep dents, pinholes, and uneven metal surfaces with minimal shrinkage and super-smooth feather-edging.",
+      "shortDescription": "Fast-setting 2K car body putty with cream hardener for auto repair.",
+      "features": [
+        "Rapid 20-minute Curing Time",
+        "Zero Clogging During Dry Sanding",
+        "Cream Hardener Tube Included",
+        "High Elasticity & Impact Resistance"
+      ],
+      "availableSizes": [
+        {
+          "label": "3.5kg Can + Hardener",
+          "code": "3.5kg"
+        },
+        {
+          "label": "1kg Tin + Hardener",
+          "code": "1kg"
+        }
+      ],
+      "spreadingRate": 0,
+      "numberOfCoatsRequired": 0,
+      "image": "https://images.unsplash.com/photo-1486006920555-c77dce18193b?auto=format&fit=crop&w=600&q=80",
+      "isFeatured": false,
+      "inStock": true
+    },
+    {
+      "id": "prod-15",
+      "title": "BROS Precision Masking Tape Pack",
+      "slug": "contractor-masking-tape-pack",
+      "brand": "BROS",
+      "category": "Painting Tools",
+      "finishType": "Masking Tape",
+      "description": "BROS high-adhesion crepe paper masking tape providing razor-sharp paint lines without adhesive residue or bleed-through. Suitable for skirting boards, door frames, POP borders, auto body panel masking, and glass protection.",
+      "shortDescription": "BROS clean-removal masking tape for sharp edges and zero paint bleeding.",
+      "features": [
+        "Clean Removal (No Sticky Residue)",
+        "Solvent & Water Resistant Crepe Tape",
+        "Tears Easily by Hand",
+        "Available in 5-Roll Pack or Single Roll"
+      ],
+      "availableSizes": [
+        {
+          "label": "Pack of 5 Rolls",
+          "code": "Pack of 5"
+        },
+        {
+          "label": "Single Roll",
+          "code": "1 Roll"
+        }
+      ],
+      "spreadingRate": 0,
+      "numberOfCoatsRequired": 0,
+      "image": "/products/bros-masking-tape-pack.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-16",
+      "title": "Stainless Steel Putty Knife & Scraper Blade Set",
+      "slug": "stainless-steel-putty-knife-set",
+      "brand": "Godswill Hardware",
+      "category": "Painting Tools",
+      "finishType": "Hardware",
+      "description": "Multi-piece professional flexible stainless steel putty knife and scraper set. Features mirror-polished anti-corrosion blades for wall screeding, peeling old flaking paint, applying POP joint compound, and spackling.",
+      "shortDescription": "Mirror-polished flexible stainless scraper knives for wall screeding.",
+      "features": [
+        "Mirror-polished Rust-proof Stainless Steel",
+        "Ground Flexible Blade for Smooth Screeding",
+        "Impact-resistant Riveted Wooden Handle",
+        "Set of 2-inch, 4-inch, and 6-inch Knives"
+      ],
+      "availableSizes": [
+        {
+          "label": "3-Piece Set (2in, 4in, 6in)",
+          "code": "3-Pc Set"
+        },
+        {
+          "label": "4-inch Single Screeder Knife",
+          "code": "4-inch"
+        }
+      ],
+      "spreadingRate": 0,
+      "numberOfCoatsRequired": 0,
+      "image": "https://images.unsplash.com/photo-1581783342308-f792dbdd27c5?auto=format&fit=crop&w=600&q=80",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-17",
+      "title": "Ace Bond Contact Adhesive (Gum)",
+      "slug": "ace-bond-contact-adhesive",
+      "brand": "Ace Bond",
+      "category": "Other Products",
+      "finishType": "Adhesive",
+      "description": "Ace Bond is a strong contact adhesive with excellent bonding on leather, rubber heel lining, laminates, wood, fabric, glass and more. Suitable for carpentry, furniture making, upholstery, shoe repair and general workshop use.",
+      "shortDescription": "Strong contact adhesive for leather, rubber, laminates, wood, fabric and glass.",
+      "features": [
+        "Strong, Long-Lasting Bond",
+        "Works on Leather, Rubber, Wood & Laminates",
+        "Bonds Fabric & Glass",
+        "Sturdy 3KG Metal Tin"
+      ],
+      "availableSizes": [
+        {
+          "label": "3KG Tin",
+          "code": "3KG"
+        }
+      ],
+      "spreadingRate": 0,
+      "numberOfCoatsRequired": 0,
+      "image": "/products/ace-bond-contact-adhesive-3kg.png",
+      "isFeatured": false,
+      "inStock": true
+    },
+    {
+      "id": "prod-18",
+      "title": "2-Inch Original Paint Brush",
+      "slug": "original-paint-brush-2-inch",
+      "brand": "Original",
+      "category": "Painting Tools",
+      "finishType": "Brush",
+      "description": "Original 2-inch paint brush with natural black bristles, a rust-resistant metal ferrule and an easy-grip red handle. Good for cutting in, edges, corners, door frames, windows and gloss work.",
+      "shortDescription": "2-inch natural-bristle brush for edges, corners, trims and gloss work.",
+      "features": [
+        "Natural Black Bristles",
+        "Rust-Resistant Metal Ferrule",
+        "Comfortable Red Handle with Hang Hole",
+        "Good for Emulsion, Gloss & Varnish"
+      ],
+      "availableSizes": [
+        {
+          "label": "2-inch Brush",
+          "code": "2in"
+        }
+      ],
+      "spreadingRate": 0,
+      "numberOfCoatsRequired": 0,
+      "image": "/products/original-bristle-brush-2inch.png",
+      "isFeatured": false,
+      "inStock": true
+    },
+    {
+      "id": "prod-19",
+      "title": "Value Paints Standard Quality Emulsion (20L)",
+      "slug": "value-paints-standard-emulsion-20l",
+      "brand": "Value Paint",
+      "category": "Home Paints",
+      "finishType": "Matt Emulsion",
+      "description": "Dependable Value Paints Standard Quality Emulsion in a 20L drum. Provides clean, uniform coverage and quick drying for interior walls, ceilings, estate projects, and general maintenance.",
+      "shortDescription": "Standard quality 20L emulsion for clean, reliable interior and ceiling coverage.",
+      "features": [
+        "Smooth Uniform Coverage",
+        "Fast Drying & Low Odor",
+        "Economical Estate & Project Choice",
+        "20L Drum Packaging"
+      ],
+      "availableSizes": [
+        {
+          "label": "20L Drum",
+          "code": "20L"
+        },
+        {
+          "label": "4L Gallon",
+          "code": "4L"
+        }
+      ],
+      "spreadingRate": 12,
+      "numberOfCoatsRequired": 2,
+      "image": "/products/value-paints-standard-emulsion-20l.png",
+      "isFeatured": false,
+      "inStock": true
+    },
+    {
+      "id": "prod-20",
+      "title": "Gofal Heavy-Duty Abrasive Sandpaper Roll",
+      "slug": "gofal-abrasive-sandpaper-roll",
+      "brand": "Gofal",
+      "category": "Painting Tools",
+      "finishType": "Abrasive",
+      "description": "Industrial-grade Gofal cloth-backed abrasive sandpaper roll. Ideal for smoothing screeded walls, feathering car body filler, stripping old paint, and prepping wood or metal surfaces before priming.",
+      "shortDescription": "Heavy-duty Gofal abrasive sandpaper roll for wall, wood, and auto prep.",
+      "features": [
+        "Tear-Resistant Cloth Backing",
+        "Long-Lasting Aluminum Oxide Grit",
+        "Suitable for Wall Screeding, Wood & Metal",
+        "Sold by Yard or Full Roll"
+      ],
+      "availableSizes": [
+        {
+          "label": "Full Workshop Roll",
+          "code": "Roll"
+        },
+        {
+          "label": "Per Yard / Meter Cut",
+          "code": "1 Yard"
+        }
+      ],
+      "spreadingRate": 0,
+      "numberOfCoatsRequired": 0,
+      "image": "/products/gofal-abrasive-sandpaper-roll.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-21",
+      "title": "Value Paints Vanish (Protective Wall & Wood Varnish)",
+      "slug": "value-paints-vanish-drum",
+      "brand": "Value Paint",
+      "category": "Other Products",
+      "finishType": "Varnish / Sealer",
+      "description": "Value Paints Vanish protective clear finish and glaze coat. Formulated to seal and protect painted walls, stonework, brick, and timber surfaces with a water-repellent, dirt-resistant sheen.",
+      "shortDescription": "Protective clear vanish topcoat for sealing walls, woodwork, and masonry.",
+      "features": [
+        "Seals & Protects Painted Surfaces",
+        "Water & Stain Repellent Barrier",
+        "Enhances Color Depth & Durability",
+        "Easy Roller or Brush Application"
+      ],
+      "availableSizes": [
+        {
+          "label": "20L Drum",
+          "code": "20L"
+        },
+        {
+          "label": "4L Gallon",
+          "code": "4L"
+        }
+      ],
+      "spreadingRate": 14,
+      "numberOfCoatsRequired": 1,
+      "image": "/products/value-paints-vanish-drum.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-22",
+      "title": "Sharon Gloss Finish — Bright Aluminium (4L)",
+      "slug": "sharon-gloss-bright-aluminium-4l",
+      "brand": "Sharon Paints",
+      "category": "Other Products",
+      "finishType": "Gloss",
+      "description": "Sharon Gloss Finish in Bright Aluminium (4 Litres). High-lustre metallic aluminium protective enamel for steel gates, tanks, structural ironwork, fencing, and roofing sheets against rust and weather.",
+      "shortDescription": "4L Bright Aluminium metallic gloss finish for gates, tanks, and steelwork.",
+      "features": [
+        "Reflective Bright Aluminium Metallic Finish",
+        "Anti-Rust & Weather Resistant",
+        "High-Adhesion Alkyd Gloss Formula",
+        "4 Litres Metal Gallon Tin"
+      ],
+      "availableSizes": [
+        {
+          "label": "4L Gallon Tin",
+          "code": "4L"
+        }
+      ],
+      "spreadingRate": 13,
+      "numberOfCoatsRequired": 2,
+      "image": "/products/sharon-gloss-bright-aluminium-4l.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-23",
+      "title": "Value Plus Gloss Finish (4L)",
+      "slug": "value-plus-gloss-4l",
+      "brand": "Value Paint",
+      "category": "Home Paints",
+      "finishType": "Gloss",
+      "description": "Value Plus Gloss (4Ltr) premium alkyd enamel coating formulated in Nigeria for brilliant mirror-like sheen, weather durability, and long-lasting protection across interior and exterior woodwork, doors, and metalwork.",
+      "shortDescription": "Premium 4L Value Plus Gloss enamel for high-sheen wood, metal, and wall protection.",
+      "features": [
+        "Brilliant Mirror-Like Gloss Sheen",
+        "Superior Weather & Scratch Resistance",
+        "Smooth Flow & High Hiding Power",
+        "4Ltr Gallon Bucket"
+      ],
+      "availableSizes": [
+        {
+          "label": "4L Gallon",
+          "code": "4L"
+        }
+      ],
+      "spreadingRate": 14,
+      "numberOfCoatsRequired": 2,
+      "image": "/products/value-plus-gloss-4l.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-24",
+      "title": "Value Paints Gloss Finish — NIS Certified (4L)",
+      "slug": "value-paints-gloss-finish-nis-4l",
+      "brand": "Value Paint",
+      "category": "Home Paints",
+      "finishType": "Gloss",
+      "description": "Value Paints NIS Certified Gloss Finish (4Ltr). Standard-certified high-durability gloss paint delivering tough protective film, rich color retention, and moisture resistance for residential and commercial surfaces.",
+      "shortDescription": "NIS Certified 4L Value Paints Gloss Finish for durable indoor and outdoor protection.",
+      "features": [
+        "NIS Quality Certified Formulation",
+        "Tough Moisture & Stain Barrier",
+        "Rich Color Retention",
+        "4Ltr Gallon Container"
+      ],
+      "availableSizes": [
+        {
+          "label": "4L Gallon",
+          "code": "4L"
+        }
+      ],
+      "spreadingRate": 13,
+      "numberOfCoatsRequired": 2,
+      "image": "/products/value-paints-gloss-finish-4l.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-25",
+      "title": "Buffalo Paints Premium Quality Enamel Gloss (4L)",
+      "slug": "buffalo-enamel-gloss-4l",
+      "brand": "Value Paint",
+      "category": "Home Paints",
+      "finishType": "Gloss",
+      "description": "Buffalo Paints Premium Quality Enamel (4Ltr — Export Quality) by Value Paints. Heavy-duty high-gloss enamel engineered for metal gates, railings, wood trims, and high-traffic surfaces.",
+      "shortDescription": "Export-quality 4L Buffalo Enamel gloss paint for gates, railings, and woodwork.",
+      "features": [
+        "Export Quality High-Solids Enamel",
+        "Rust & Corrosion Protection",
+        "Deep Glossy Finish",
+        "4Ltr Gallon Container"
+      ],
+      "availableSizes": [
+        {
+          "label": "4L Gallon",
+          "code": "4L"
+        }
+      ],
+      "spreadingRate": 14,
+      "numberOfCoatsRequired": 2,
+      "image": "/products/buffalo-enamel-gloss-4l.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-26",
+      "title": "Value Plus Emulsion (20L)",
+      "slug": "value-plus-emulsion-20l",
+      "brand": "Value Paint",
+      "category": "Home Paints",
+      "finishType": "Emulsion",
+      "description": "Value Plus Emulsion (20Ltr — Guarantee Quality). Premium high-opacity interior and exterior emulsion paint delivering smooth coverage, bright color retention, and long-lasting protection across residential and commercial walls.",
+      "shortDescription": "Guaranteed-quality 20L Value Plus Emulsion for smooth interior and exterior walls.",
+      "features": [
+        "High Opacity & Smooth Spread",
+        "Bright & Fade-Resistant Pigments",
+        "Interior & Exterior Wall Protection",
+        "20Ltr Heavy-Duty Blue Drum"
+      ],
+      "availableSizes": [
+        {
+          "label": "20L Drum",
+          "code": "20L"
+        },
+        {
+          "label": "4L Gallon",
+          "code": "4L"
+        }
+      ],
+      "spreadingRate": 14,
+      "numberOfCoatsRequired": 2,
+      "image": "/products/value-plus-emulsion-20l.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-27",
+      "title": "Buffalo Satin Emulsion — Silk (20L)",
+      "slug": "buffalo-satin-emulsion-silk-20l",
+      "brand": "Value Paint",
+      "category": "Home Paints",
+      "finishType": "Satin",
+      "description": "Buffalo Satin Emulsion SILK (20Ltr — Export Quality Brand) by Value Paints. Luxurious washable silk-satin finish with 14.5–17 m²/L spreading rate and superior resistance against fungal and algae growth.",
+      "shortDescription": "Export-quality 20L Buffalo Silk Satin Emulsion with washable sheen and fungal resistance.",
+      "features": [
+        "14.5 - 17 m²/L High Spreading Rate",
+        "Washable Silk-Satin Luxury Sheen",
+        "Anti-Algae & Anti-Fungal Formula",
+        "20Ltr Export Quality Drum"
+      ],
+      "availableSizes": [
+        {
+          "label": "20L Drum",
+          "code": "20L"
+        },
+        {
+          "label": "4L Gallon",
+          "code": "4L"
+        }
+      ],
+      "spreadingRate": 16,
+      "numberOfCoatsRequired": 2,
+      "image": "/products/buffalo-satin-emulsion-silk-20l.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-28",
+      "title": "Value Paints POP Emulsion (20L)",
+      "slug": "value-paints-pop-emulsion-20l",
+      "brand": "Value Paint",
+      "category": "Home Paints",
+      "finishType": "POP Emulsion",
+      "description": "Value Paints POP Emulsion (20Ltr). Specially formulated ultra-white, high-adhesion ceiling and POP (Plaster of Paris) emulsion paint that seals porous screeds and delivers a flawless, non-yellowing finish on POP ceilings and cornices.",
+      "shortDescription": "Specialized 20L POP Emulsion for Plaster of Paris ceilings, cornices, and skimmed walls.",
+      "features": [
+        "Formulated Specifically for POP & Skimmed Walls",
+        "Superior Adhesion on Porous Plaster",
+        "Non-Yellowing Bright Finish",
+        "20Ltr Square Heavy-Duty Bucket"
+      ],
+      "availableSizes": [
+        {
+          "label": "20L Bucket",
+          "code": "20L"
+        }
+      ],
+      "spreadingRate": 14,
+      "numberOfCoatsRequired": 2,
+      "image": "/products/value-paints-pop-emulsion-20l.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-29",
+      "title": "MAC APEX Premium Automotive Paint — Bronze Pearl",
+      "slug": "mac-apex-auto-paint-bronze-pearl",
+      "brand": "MAC APEX",
+      "category": "Auto Paints",
+      "finishType": "Pearl Basecoat",
+      "description": "MAC APEX Premium Automotive Paint for Car Refinishing (MAC74 Bronze Pearl). Professional-grade metallic/pearl automotive refinish basecoat delivering deep lustre, uniform pearl orientation, and high weather durability.",
+      "shortDescription": "Premium MAC74 Bronze Pearl automotive car refinishing paint.",
+      "features": [
+        "MAC74 Bronze Pearl Factory-Grade Shade",
+        "Smooth Atomization & Fast Flash-Off",
+        "High UV & Weather Durability",
+        "Precision Car Refinishing Formula"
+      ],
+      "availableSizes": [
+        {
+          "label": "1L Tin",
+          "code": "1L"
+        },
+        {
+          "label": "4L Gallon",
+          "code": "4L"
+        }
+      ],
+      "spreadingRate": 10,
+      "numberOfCoatsRequired": 3,
+      "image": "/products/mac-apex-auto-paint-bronze-pearl.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-30",
+      "title": "3-Inch Original Paint Brush",
+      "slug": "original-paint-brush-3-inch",
+      "brand": "Original",
+      "category": "Painting Tools",
+      "finishType": "Brush",
+      "description": "Original 3-inch professional paint brush with high-density natural black bristles, rust-resistant metal ferrule, and ergonomic red handle. Ideal for medium-to-wide surfaces, doors, railings, fascia boards, and gloss/emulsion application.",
+      "shortDescription": "3-inch natural-bristle original brush for doors, trims, and smooth wall work.",
+      "features": [
+        "3-Inch Dense Natural Black Bristles",
+        "Rust-Resistant Stainless Ferrule",
+        "Ergonomic Red Grip Handle with Hang Hole",
+        "Suitable for Gloss, Emulsion & Varnish"
+      ],
+      "availableSizes": [
+        {
+          "label": "3-Inch Brush",
+          "code": "3in"
+        }
+      ],
+      "spreadingRate": 0,
+      "numberOfCoatsRequired": 0,
+      "image": "/products/original-bristle-brush-3inch.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-31",
+      "title": "4-Inch Original Paint Brush",
+      "slug": "original-paint-brush-4-inch",
+      "brand": "Original",
+      "category": "Painting Tools",
+      "finishType": "Brush",
+      "description": "Original 4-inch wide heavy-duty paint brush featuring thick natural black bristles, triple-riveted metal ferrule, and contoured red handle. Built for fast, high-capacity coverage on wide walls, gates, woodwork, and masonry.",
+      "shortDescription": "Wide 4-inch original natural-bristle brush for fast wall, gate, and wood coverage.",
+      "features": [
+        "Wide 4-Inch High-Capacity Bristle Head",
+        "Heavy-Duty Riveted Metal Ferrule",
+        "Smooth Release Without Brush Marks",
+        "Works with Oil Gloss, Emulsion & Primers"
+      ],
+      "availableSizes": [
+        {
+          "label": "4-Inch Brush",
+          "code": "4in"
+        }
+      ],
+      "spreadingRate": 0,
+      "numberOfCoatsRequired": 0,
+      "image": "/products/original-bristle-brush-4inch.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-32",
+      "title": "Professional Oil Roller for Gloss Paint",
+      "slug": "oil-roller-for-gloss-paint",
+      "brand": "Godswill Hardware",
+      "category": "Painting Tools",
+      "finishType": "Oil & Gloss Roller",
+      "description": "Solvent-resistant fine-nap paint roller with blue ergonomic grip handle, designed specifically for applying oil-based gloss enamels, satin finishes, and primers smoothly onto metal gates, doors, and walls without bubbling or shedding.",
+      "shortDescription": "Solvent-resistant oil roller for smooth, bubble-free gloss and enamel painting.",
+      "features": [
+        "Engineered Specifically for Oil & Gloss Paints",
+        "Solvent-Resistant Woven Nap (No Shedding)",
+        "Smooth Bubble-Free Enamel Finish",
+        "Sturdy Chrome Frame & Blue Comfort Handle"
+      ],
+      "availableSizes": [
+        {
+          "label": "Complete Oil Roller (Handle + Sleeve)",
+          "code": "Complete"
+        }
+      ],
+      "spreadingRate": 0,
+      "numberOfCoatsRequired": 0,
+      "image": "/products/oil-roller-gloss-paint.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-33",
+      "title": "Rovano Stucco — Highly Luxurious Marble Finish",
+      "slug": "rovano-stucco-luxury-finish",
+      "brand": "Rovano",
+      "category": "Home Paints",
+      "finishType": "Luxury Stucco",
+      "description": "Rovano Stucco Highly Luxurious decorative Venetian marble coating. Creates a polished, mirror-like Venetian plaster effect with rich depth and elegance for luxury living rooms, hotel lobbies, feature walls, and executive interiors.",
+      "shortDescription": "Highly luxurious Venetian marble stucco finish for statement interior walls.",
+      "features": [
+        "Polished Venetian Marble Sheen",
+        "Washable & Moisture Resistant Luxury Film",
+        "Rich Architectural Depth & Texture",
+        "Ideal for Feature Walls & Executive Interiors"
+      ],
+      "availableSizes": [
+        {
+          "label": "20KG / Luxury Bucket",
+          "code": "Bucket"
+        },
+        {
+          "label": "5KG / Gallon Bucket",
+          "code": "Gallon"
+        }
+      ],
+      "spreadingRate": 10,
+      "numberOfCoatsRequired": 2,
+      "image": "/products/rovano-stucco-luxury.png",
+      "isFeatured": true,
+      "inStock": true
+    },
+    {
+      "id": "prod-34",
+      "title": "Golden Sun 9-Inch Complete Paint Roller",
+      "slug": "golden-sun-9-inch-paint-roller",
+      "brand": "Golden Sun",
+      "category": "Painting Tools",
+      "finishType": "Roller & Sleeve",
+      "description": "Golden Sun 9-inch complete paint roller brush featuring a high-capacity woven sleeve with blue and yellow stripe weave, heavy-duty chrome-plated steel frame, and contoured blue grip handle.",
+      "shortDescription": "Golden Sun 9-inch complete roller brush for smooth wall and ceiling coverage.",
+      "features": [
+        "9-Inch Wide High-Capacity Roller Sleeve",
+        "Even Paint Pickup & Splatter-Free Release",
+        "Sturdy Galvanized Frame",
+        "Ergonomic Blue Handle (Extension Pole Compatible)"
+      ],
+      "availableSizes": [
+        {
+          "label": "9-Inch Complete Roller",
+          "code": "9in"
+        }
+      ],
+      "spreadingRate": 0,
+      "numberOfCoatsRequired": 0,
+      "image": "/products/golden-sun-roller-9inch.png",
+      "isFeatured": true,
+      "inStock": true
+    }
+  ],
+  "shades": [
+    {
+      "id": "sh-1",
+      "name": "Brilliant White",
+      "code": "#FFFFFF",
+      "family": "Whites & Off-Whites",
+      "isPopular": true
+    },
+    {
+      "id": "sh-2",
+      "name": "Pearl White",
+      "code": "#F8F9FA",
+      "family": "Whites & Off-Whites",
+      "isPopular": true
+    },
+    {
+      "id": "sh-3",
+      "name": "Magnolia Cream",
+      "code": "#F4EBD9",
+      "family": "Warm Neutrals",
+      "isPopular": true
+    },
+    {
+      "id": "sh-4",
+      "name": "Sahara Sand",
+      "code": "#E8D8C3",
+      "family": "Warm Neutrals",
+      "isPopular": false
+    },
+    {
+      "id": "sh-5",
+      "name": "Dove Grey",
+      "code": "#CBD5E1",
+      "family": "Cool Greys",
+      "isPopular": true
+    },
+    {
+      "id": "sh-6",
+      "name": "Charcoal Slate",
+      "code": "#334155",
+      "family": "Cool Greys",
+      "isPopular": true
+    },
+    {
+      "id": "sh-7",
+      "name": "Royal Edo Coral",
+      "code": "#E05A47",
+      "family": "Vibrant & Earthy",
+      "isPopular": true
+    },
+    {
+      "id": "sh-8",
+      "name": "Earthy Terracotta",
+      "code": "#B85D38",
+      "family": "Vibrant & Earthy",
+      "isPopular": false
+    },
+    {
+      "id": "sh-9",
+      "name": "Breeze Azure",
+      "code": "#93C5FD",
+      "family": "Blues & Greens",
+      "isPopular": true
+    },
+    {
+      "id": "sh-10",
+      "name": "Emerald Pine",
+      "code": "#065F46",
+      "family": "Blues & Greens",
+      "isPopular": false
+    },
+    {
+      "id": "sh-11",
+      "name": "Textured Rustic Cream",
+      "code": "#DDD3C1",
+      "family": "Special Textures",
+      "isPopular": true
+    },
+    {
+      "id": "sh-12",
+      "name": "Textured Ash Stone",
+      "code": "#949B96",
+      "family": "Special Textures",
+      "isPopular": false
+    }
+  ],
+  "quotes": [
+    {
+      "id": "quote-1791845501686",
+      "reference": "GWQ-13917",
+      "customerName": "kachi",
+      "customerPhone": "09139961628",
+      "customerEmail": "",
+      "deliveryArea": "benin",
+      "projectType": "Residential House",
+      "items": [
+        {
+          "id": 1791845408292,
+          "productId": "custom-shade",
+          "title": "Value Plus Custom Tint: Magnolia Cream",
+          "image": "https://valuepaints.org/wp-content/uploads/2019/10/value-crop-10.png",
+          "size": "20L Drum",
+          "quantity": 1,
+          "shade": {
+            "id": "sh-3",
+            "name": "Magnolia Cream",
+            "code": "#F4EBD9",
+            "family": "Warm Neutrals",
+            "isPopular": true
+          }
+        },
+        {
+          "id": 1791845413774,
+          "productId": "custom-shade",
+          "title": "Value Plus Custom Tint: Charcoal Slate",
+          "image": "https://valuepaints.org/wp-content/uploads/2019/10/value-crop-10.png",
+          "size": "20L Drum",
+          "quantity": 1,
+          "shade": {
+            "id": "sh-6",
+            "name": "Charcoal Slate",
+            "code": "#334155",
+            "family": "Cool Greys",
+            "isPopular": true
+          }
+        },
+        {
+          "id": 1791845434391,
+          "productId": "prod-10",
+          "title": "Professional Painter Tool Kit & Roller Set",
+          "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=600&q=80",
+          "size": "9-inch Roller Handle + Sleeve",
+          "quantity": 1,
+          "shade": null
+        }
+      ],
+      "notes": "call me soon",
+      "status": "New Inquiry",
+      "createdAt": "2026-10-12T22:51:41.686Z"
+    },
+    {
+      "id": "quote-1791845109606",
+      "reference": "GWQ-14819",
+      "customerName": "kachi",
+      "customerPhone": "09139961628",
+      "customerEmail": "",
+      "deliveryArea": "benin",
+      "projectType": "Residential House",
+      "items": [
+        {
+          "id": 1791844640619,
+          "productId": "prod-1",
+          "title": "Value Plus Satin (From Calculator)",
+          "image": "https://valuepaints.org/wp-content/uploads/2019/10/value-crop-10.png",
+          "size": "4L Gallon",
+          "quantity": 2
+        }
+      ],
+      "notes": "need high gloss call me",
+      "status": "New Inquiry",
+      "createdAt": "2026-10-12T22:45:09.606Z"
+    },
+    {
+      "id": "quote-1791844926840",
+      "reference": "GWQ-91285",
+      "customerName": "kachi",
+      "customerPhone": "09139961628",
+      "customerEmail": "",
+      "deliveryArea": "benin",
+      "projectType": "Residential House",
+      "items": [
+        {
+          "id": 1791844640619,
+          "productId": "prod-1",
+          "title": "Value Plus Satin (From Calculator)",
+          "image": "https://valuepaints.org/wp-content/uploads/2019/10/value-crop-10.png",
+          "size": "4L Gallon",
+          "quantity": 2
+        }
+      ],
+      "notes": "need high gloss call me",
+      "status": "New Inquiry",
+      "createdAt": "2026-10-12T22:42:06.840Z"
+    },
+    {
+      "id": "quote-1",
+      "reference": "GWQ-91024",
+      "customerName": "Engr. Osasere",
+      "customerPhone": "+2348031234567",
+      "customerEmail": "osasere.building@gmail.com",
+      "deliveryArea": "GRA, Benin City",
+      "projectType": "Residential House",
+      "items": [
+        {
+          "productTitle": "Value Plus Satin",
+          "size": "20L Drum",
+          "quantity": 4,
+          "shadeName": "Brilliant White",
+          "shadeCode": "#FFFFFF"
+        },
+        {
+          "productTitle": "Textured Finish (Stucco / Tex)",
+          "size": "20L Drum",
+          "quantity": 6,
+          "shadeName": "Textured Ash Stone",
+          "shadeCode": "#949B96"
+        }
+      ],
+      "status": "Contacted via WhatsApp",
+      "createdAt": "2026-10-12T22:05:02.727Z"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "tx-1791934328081",
+      "referenceId": "TX-41632",
+      "date": "2026-10-13T23:32:08.081Z",
+      "type": "SALE",
+      "flow": "CREDIT",
+      "amount": 185000,
+      "category": "Paint Sales",
+      "paymentMethod": "POS",
+      "customerOrSupplierName": "Engr. Orobosa (Site Contractor)",
+      "itemsSummary": "2x 20L Value Plus Satin (Dove Grey), 1x 20L Buffalo Emulsion",
+      "notes": "Payment confirmed via store POS"
+    },
+    {
+      "id": "tx-1791932118641",
+      "referenceId": "TX-48843",
+      "date": "2026-10-13T22:55:18.641Z",
+      "type": "EXPENSE",
+      "flow": "DEBIT",
+      "amount": 60000,
+      "category": "Logistics / Waybill",
+      "paymentMethod": "POS",
+      "customerOrSupplierName": "waybill ",
+      "itemsSummary": "7 drums of satin",
+      "notes": ""
+    },
+    {
+      "id": "tx-1791846976565",
+      "referenceId": "TX-89958",
+      "date": "2026-10-12T23:16:16.565Z",
+      "type": "PURCHASE_STOCK",
+      "flow": "DEBIT",
+      "amount": 7888,
+      "category": "Paint Sales",
+      "paymentMethod": "Bank Transfer",
+      "customerOrSupplierName": "gold edge",
+      "itemsSummary": "7 drums of satin",
+      "notes": ""
+    },
+    {
+      "id": "tx-1791845368874",
+      "referenceId": "TX-79813",
+      "date": "2026-10-12T22:49:28.874Z",
+      "type": "SALE",
+      "flow": "CREDIT",
+      "amount": 388,
+      "category": "Paint Sales",
+      "paymentMethod": "Cash",
+      "customerOrSupplierName": "brush/emma/1",
+      "itemsSummary": "brush/emma/1",
+      "notes": ""
+    },
+    {
+      "id": "tx-1791845327187",
+      "referenceId": "TX-34282",
+      "date": "2026-10-12T22:48:47.187Z",
+      "type": "EXPENSE",
+      "flow": "DEBIT",
+      "amount": 300,
+      "category": "Paint Sales",
+      "paymentMethod": "Cash",
+      "customerOrSupplierName": "coke",
+      "itemsSummary": "coke",
+      "notes": ""
+    },
+    {
+      "id": "tx-1791845310510",
+      "referenceId": "TX-71839",
+      "date": "2026-10-12T22:48:30.510Z",
+      "type": "SALE",
+      "flow": "CREDIT",
+      "amount": 4000,
+      "category": "Paint Sales",
+      "paymentMethod": "Cash",
+      "customerOrSupplierName": "car paint white",
+      "itemsSummary": "car paint white",
+      "notes": ""
+    },
+    {
+      "id": "tx-1",
+      "referenceId": "TX-90124",
+      "date": "2026-10-10T22:05:02.729Z",
+      "type": "SALE",
+      "flow": "CREDIT",
+      "amount": 320000,
+      "category": "Paint Sales",
+      "paymentMethod": "Bank Transfer",
+      "customerOrSupplierName": "Pastor Jude (Airport Rd Project)",
+      "itemsSummary": "3x 20L Value Plus Satin (Brilliant White), 2x 4L Gloss",
+      "notes": "Full payment confirmed via transfer"
+    },
+    {
+      "id": "tx-2",
+      "referenceId": "TX-90125",
+      "date": "2026-10-11T22:05:02.729Z",
+      "type": "EXPENSE",
+      "flow": "DEBIT",
+      "amount": 15000,
+      "category": "Generator / Fuel",
+      "paymentMethod": "Cash",
+      "customerOrSupplierName": "NNPC Mega Station",
+      "itemsSummary": "Petrol for shop generator (15 Litres)",
+      "notes": "Power outage in First East Circular"
+    },
+    {
+      "id": "tx-3",
+      "referenceId": "TX-90126",
+      "date": "2026-10-11T22:05:02.729Z",
+      "type": "PURCHASE_STOCK",
+      "flow": "DEBIT",
+      "amount": 850000,
+      "category": "Stock Restock",
+      "paymentMethod": "Bank Transfer",
+      "customerOrSupplierName": "Gold Edge Industries (Value Paint Depot)",
+      "itemsSummary": "Restock: 20x 20L Satin, 15x 20L Emulsion, 10x 4L Gloss",
+      "notes": "Waybill received intact at Benin depot"
+    },
+    {
+      "id": "tx-4",
+      "referenceId": "TX-90127",
+      "date": "2026-10-12T22:05:02.729Z",
+      "type": "SALE",
+      "flow": "CREDIT",
+      "amount": 95000,
+      "category": "Auto Paint Sales",
+      "paymentMethod": "POS",
+      "customerOrSupplierName": "Edo Auto Panel Beaters",
+      "itemsSummary": "2x 1L 2K Metallic, 1x 5L Fast Thinner, 2x Hardener",
+      "notes": "POS terminal receipt #8812"
+    }
+  ]
+}
